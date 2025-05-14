@@ -12,6 +12,12 @@ This repository is organized as follows:
 
 #### Chicago
 
+**UPDATE: CHICAGO DATA IS ONLY AVAILABLE FOR DOWNLOAD [HERE](https://uchicagoedu-my.sharepoint.com/:f:/g/personal/mtrichardson_uchicago_edu/EutQ3wGHe4xJsKHnoDJj74AB-4PG8TyKf8hN9W4SqqgUHg?e=fn8Ugn).
+
+The instructions below for downloading data are obsolete and will no longer work.
+
+=====Obsolete=======
+
 **See the [data dictionary](https://github.com/internet-equity/netrics-data/blob/main/documentation/netrics-data-dictionary.md)** for more information about the datasets and data.
 
 | Quarter | Speedtest | Latency | Counters/Score | Speedtest | Latency | Counters/Score |
