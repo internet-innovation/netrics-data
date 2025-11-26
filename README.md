@@ -1,6 +1,6 @@
 # Netrics Data - Continuous Measurements of Internet Performance at the Access Network
 
-This repository contains documentation about and links to datasets collected by Netrics Internet measurement devices which the [Internet Innovation Initiative](https://internet-innovation.github.io/) research team at the [Department of Computer Science and Crown School](http://datascience.uchicago.edu/) deployed across Chicago starting in late 2021. Supporting resources to assist those that want to use the data are also available.
+This repository contains documentation about and links to datasets collected by Netrics Internet measurement devices which the [Internet Innovation Initiative](https://internet-innovation.github.io/) research team at the [Department of Computer Science](https://cs.uchicago.edu/) and [Crown School](https://crownschool.uchicago.edu/) deployed across Chicago starting in late 2021. Supporting resources to assist those that want to use the data are also available.
 
 This repository is organized as follows:
 - **[documentation](https://github.com/internet-innovation/netrics-data/blob/main/documentation)**: Find documentation about the data, the deployment of Netrics devices, and the pipeline that moves data from devices to a central data store.

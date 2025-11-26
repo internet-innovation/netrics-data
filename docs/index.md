@@ -4,7 +4,7 @@
 
 <p align='center'><img src='assets/images/netrics-data-hero.jpg' width='750' height='400' alt='Image of a map with data displayed on it and a heat map of Netrics device deployments with some charts of netrics data displayed on a Grafana dashboard and accompanying text that says Internet Innovation Initiative data about and analysis of Internet performance and reliability with actionable insights to address disparity in communities across the United States.' vertical-align='middle'></p>
 
-This repository contains documentation about and links to datasets collected by Netrics Internet measurement devices which the [Internet Innovation Initiative](https://internet-innovation.github.io/) research team at the [Department of Computer Science and Crown School](http://datascience.uchicago.edu/) deployed across Chicago starting in late 2021. Supporting resources to assist those that want to use the data are also available.
+This repository contains documentation about and links to datasets collected by Netrics Internet measurement devices which the [Internet Innovation Initiative](https://internet-innovation.github.io/) research team at the [Department of Computer Science](https://cs.uchicago.edu/) and [Crown School](https://crownschool.uchicago.edu/) deployed across Chicago starting in late 2021. Supporting resources to assist those that want to use the data are also available.
 
 ## Useful resources
 - **[Data Dictionary](./documentation/netrics-data-dictionary.md)**: Learn about the data and the fields included in the CSV files.
