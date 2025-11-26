@@ -2,7 +2,7 @@
 
 The measurement data that we collect from Netrics Internet measurement devices deployed across Chicago are currently available as a set of comma-separated values (CSV) files, broken out by month and measurement. We also include a dataset that contains geographic (community areas and tracts) and selected survey data (i.e., ISP and speed tier) for each device.
 
-Download the data (measurements and geographic and survey data) from the home page of the [repository](https://github.com/internet-equity/netrics-data#download-the-data).
+Download the data (measurements and geographic and survey data) from the home page of the [repository](https://github.com/internet-innovation/netrics-data#download-the-data).
 
 ## Measurement Data
 
@@ -26,8 +26,8 @@ The available tools for latency are:
 | [ping_latency](https://github.com/iputils/iputils) | This is an ICMP roundtrip time (RTT) measurement taken with a standard "ping" tool targeting multiple sites | Every 5 minutes |
 | [dns_latency](https://github.com/iputils/iputils)  | This is an ICMP roundtrip time (RTT) measurement taken with a standard "ping" tool targeting common DNS sites (8.8.8.8, 1.1.1.1) | Every 5 minutes |
 | [oplat](https://github.com/kyle-macmillan/OpLat)  | This is a tool designed to measure Latency-Under-Load (LUL) and it combines RTT "ping" with the network traffic load created by iperf | Along with Speedtest (1 to 5 times a day) |
-| [encrypteddns](https://github.com/internet-equity/nm-exp-active-netrics/blob/main/src/netrics/plugins/plugin_encrypteddns.py)  | Encrypted DNS test with the `dig` tool running against selected targets | 3 times a day |
-| [httping](https://github.com/internet-equity/nm-exp-active-netrics/blob/main/src/netrics/plugins/plugin_httping.py)  | HTTPing tool measuring http latency via HEAD command | Every 5 minutes |
+| [encrypteddns](https://github.com/internet-innovation/nm-exp-active-netrics/blob/main/src/netrics/plugins/plugin_encrypteddns.py)  | Encrypted DNS test with the `dig` tool running against selected targets | 3 times a day |
+| [httping](https://github.com/internet-innovation/nm-exp-active-netrics/blob/main/src/netrics/plugins/plugin_httping.py)  | HTTPing tool measuring http latency via HEAD command | Every 5 minutes |
 
 #### Speedtest
 
@@ -61,7 +61,7 @@ The available tools for counters are:
 | [hops_to_target](https://github.com/openbsd/src/blob/master/usr.sbin/traceroute/traceroute.c) | The number of network hops necessary to reach a network targeted  | Every 5 minutes |
 | [connected_devices_arp](https://github.com/nmap/nmap)  | The number of connected devices connected to the network | Every 5 minutes |
 | [score](https://github.com/chicago-cdac/netrics-dash)  | Subjective opinion score (*)| Eventually |
-| [goresp](https://github.com/internet-equity/nm-exp-active-netrics/blob/main/src/netrics/plugins/plugin_httping.py)  | GoResponsiveness RPM score | 3 times a day |
+| [goresp](https://github.com/internet-innovation/nm-exp-active-netrics/blob/main/src/netrics/plugins/plugin_httping.py)  | GoResponsiveness RPM score | 3 times a day |
 
 
 (*) 0 = Good, 1 = Slow, 2 = Unusable

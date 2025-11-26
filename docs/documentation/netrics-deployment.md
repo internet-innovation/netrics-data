@@ -1,6 +1,6 @@
 # Deployment
 
-Starting in October 2021, the Internet Equity research team began shipping Netrics devices to residents in Chicago who had enrolled in our study to measure their Internet performance. The data that users can find in this repository are collected from these deployed study devices. In this document, we describe how the measurement devices work, the type of information they collect, and historical deployments of devices around Chicago since October 2021.
+Starting in October 2021, the Internet Innovation research team began shipping Netrics devices to residents in Chicago who had enrolled in our study to measure their Internet performance. The data that users can find in this repository are collected from these deployed study devices. In this document, we describe how the measurement devices work, the type of information they collect, and historical deployments of devices around Chicago since October 2021.
 
 ## Netrics Internet Measurement Device
 

@@ -1,7 +1,7 @@
 # Netrics Data Release — Version 1.0
 **Date**: May 9, 2022
 
-Introducing the first release of Internet performance data collected through the Netrics platform developed by researchers at the University of Chicago Data Science Institute!
+Introducing the first release of Internet performance data collected through the Netrics platform developed by researchers at the University of Chicago Department of Computer Science and Crown School!
 
 ## What's in this release?
 
@@ -27,4 +27,4 @@ Click on the link for each month below to download a zipfile containing Netrics 
 
 If you have questions about the data, please consult our [documentation folder](https://github.com/chicago-cdac/netrics-data/tree/main/documentation) in this repository. See how we pulled the data from our InfluxDB by reviewing the python script [here](https://github.com/chicago-cdac/netrics-data/blob/main/src/get-portal-data.py). Please use the [issues](https://github.com/chicago-cdac/netrics-data/issues) feature to report bugs or errors in the data and make suggestions to our team for future enhancements and additions.
 
-Please contact us at [broadband-equity@list.uchicago.edu](mailto:broadband-equity@list.uchicago.edu) with any questions and feedback.
+Please contact us at [broadband-research@list.uchicago.edu](mailto:broadband-research@list.uchicago.edu) with any questions and feedback.
